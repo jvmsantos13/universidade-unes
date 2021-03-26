@@ -1,3 +1,2 @@
-<h1 align="center"> 
-    Faculdade Unes
-<\h1>
+## Faculdade UNES
+<p align="center">Site feito somente em HTML para faculdade fictícia UNES</p>
