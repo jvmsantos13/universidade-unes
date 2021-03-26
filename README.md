@@ -1,7 +1,7 @@
 ## Faculdade UNES
 <p align="center">Site feito 100% em HTML para faculdade fictícia UNES.</p>
 
-### 🛠 Tecnologias
+## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -15,3 +15,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 **Link do projeto:** https://joao-monteiro-santos.github.io/Universidade-Unes/
 
 ![](Unes-Gif.gif)
+
+## Autor
+João Victor Monteiro
+https://www.linkedin.com/in/jvmsantos/
