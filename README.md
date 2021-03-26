@@ -17,5 +17,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ![](Unes-Gif.gif)
 
 ## Autor
-João Victor Monteiro
+João Victor Monteiro <br />
 https://www.linkedin.com/in/jvmsantos/
