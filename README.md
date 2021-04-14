@@ -12,7 +12,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 </h4>
 
 
-**Link do projeto:** https://joao-monteiro-santos.github.io/Universidade-Unes/
+**Link do projeto:** https://jvmsantos13.github.io/Universidade-Unes/
 
 ![](Unes-Gif.gif)
 
